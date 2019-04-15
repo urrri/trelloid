@@ -1,0 +1,13 @@
+{
+  "api": {
+    "port": 8080,
+    "public": "/",
+    "rootPath": "/api/v1"
+  },
+  "logger": {
+    "on": false
+  },
+  "db": {
+    "connectionUri": "mongodb://localhost/trelloid"
+  }
+}
